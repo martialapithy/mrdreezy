@@ -1,0 +1,45 @@
+body{
+    background: yellow ;
+}
+.petit{
+    padding-top: 30px;
+    text-align: center;
+    border-style: double;
+    padding-bottom: 70px;
+
+}
+.statut{
+   
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.texte{
+    border-style: solid;
+}
+.texte2{
+    border-style: solid;
+}
+.texte3{
+    text-align: center;
+}
+.texte4{
+    text-align: center;
+}
+.heure{
+    text-align: center;
+}
+.texte5{
+    text-align: center;
+}
+.texte6{
+    text-align: center;
+}
+.texte7{
+    text-align: center;
+}
+.texte8{
+    text-align: center;
+}
+
+
