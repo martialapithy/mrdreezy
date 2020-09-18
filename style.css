@@ -1,0 +1,88 @@
+body{
+    background: gray;
+    background: mediumseagreen;
+}
+.petit{
+    padding-top: 30px;
+    text-align: center;
+    border-style: double;
+    padding-bottom: 70px;
+
+}
+.statut{
+   
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.texte{
+    display: inline-block;
+    padding: 5px;
+    margin: 0 30%;
+    animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 4s; /* don't forget to set a duration! */
+    border: 1px #3f1818 solid;
+    background-color: rgb(137, 145, 153);
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 18px;
+    width: 40%;
+}
+.texte2{
+    border: 1px #363636 solid;
+    padding: 5px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 18px;
+    height: auto;
+    width: 80%;
+    margin: 2% 10%;
+    background-color: cornsilk;
+}
+.texte-center{
+    text-align: center;
+}
+.texte4{
+    text-align: center;
+}
+.heure{
+    text-align: center;
+}
+.texte5{
+    text-align: center;
+}
+.texte6{
+    text-align: center;
+}
+.texte7{
+    text-align: center;
+}
+.texte8{
+    text-align: center;
+}
+.boutton{
+    text-align: center;
+}
+.texte0{
+    text-align: center;
+}
+.calculatrice{
+    text-align: center;
+}
+
+.trt{
+    display: inline-block;
+    padding: 5px;
+    margin: 0 30%;
+    animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 4s; /* don't forget to set a duration! */
+    border: 1px #3f1818 solid;
+    background-color: rgb(137, 145, 153);
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 18px;
+    width: 40%;
+}
+
+}
